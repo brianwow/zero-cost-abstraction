@@ -571,11 +571,15 @@ DW.ref.rust_eh_personality:
         .quad   rust_eh_personality
 ```
 
-<sub>_You are not going to run this code by [yourself](https://godbolt.org/z/a8KWGKK7T)_</sub>
+<sub>_Don't you dare to run this [code](https://godbolt.org/z/a8KWGKK7T)_</sub>
 
 Keep your code simple, that will most of the time guarantee a better result.
 
 #### Further readings:
 
+- An Overview of Rust Programming Language by Senior Mars [Presentation](https://www.youtube.com/watch?v=aBHCTHeLjD0), [Markdown Source](https://github.com/KarlWithK/rust-presentation/blob/master/rust-pres.md)
 - Zero Cost Abstraction in Rust by Amirreza Askarpour [Blog Post](https://itnext.io/zero-cost-abstractions-in-rust-26d058eb1724)
-- An Overview of Rust Programming Language by Senior Mars [Presentation](https://www.youtube.com/watch?v=aBHCTHeLjD0) | [Markdown Source](https://github.com/KarlWithK/rust-presentation/blob/master/rust-pres.md)
+
+#### License
+
+WTFPL License
